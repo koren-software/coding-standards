@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- Include the whole PSR-2 standard -->
+<ruleset name="PSR-2">
+    <description>Custom ruleset based on PSR-2.</description>'
+    <!-- Add directories based on project -->
+    <file>./app</file>
+    <rule ref="PSR2">
+        <exclude name="Generic.Files.LineEndings"/>
+    </rule>
+</ruleset>
