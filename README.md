@@ -2,6 +2,7 @@
 > Various coding standards grouped by language/platform for Koren Software developers.
 
 - [Global](/global/README.md) - standards for every project
+- [Git](/git/README.md) - standards for version control
 
 ## Language:
 - [Javascript](/javascript/README.md)
